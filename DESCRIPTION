@@ -1,0 +1,14 @@
+Package: broombayes
+Type: Package
+Title: Convert Bayesian Statistical Analysis Objects into Tidy Data Frames
+Version: 0.0.1.9000
+Authors@R: c(
+    person("Nicholas", "Tierney", , "nicholas.tierney@gmail.com", c("aut", "cre")),
+    person("David", "Robinson", email = "admiral.david@gmail.com", role = c("ctb"))
+    )
+Description: Brooms's tidy, augment, and glance methods splintered out and into 
+  a separate, smaller R package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
